@@ -1,0 +1,15 @@
+C:\Users\jvillega\source\repos\WebServiceNetCore21MySql\WebServiceNetCore21MySql\bin\Release\netcoreapp2.1\WebServiceNetCore21MySql.deps.json
+C:\Users\jvillega\source\repos\WebServiceNetCore21MySql\WebServiceNetCore21MySql\bin\Release\netcoreapp2.1\WebServiceNetCore21MySql.runtimeconfig.json
+C:\Users\jvillega\source\repos\WebServiceNetCore21MySql\WebServiceNetCore21MySql\bin\Release\netcoreapp2.1\WebServiceNetCore21MySql.runtimeconfig.dev.json
+C:\Users\jvillega\source\repos\WebServiceNetCore21MySql\WebServiceNetCore21MySql\bin\Release\netcoreapp2.1\WebServiceNetCore21MySql.dll
+C:\Users\jvillega\source\repos\WebServiceNetCore21MySql\WebServiceNetCore21MySql\bin\Release\netcoreapp2.1\WebServiceNetCore21MySql.pdb
+C:\Users\jvillega\source\repos\WebServiceNetCore21MySql\WebServiceNetCore21MySql\obj\Release\netcoreapp2.1\WebServiceNetCore21MySql.csprojAssemblyReference.cache
+C:\Users\jvillega\source\repos\WebServiceNetCore21MySql\WebServiceNetCore21MySql\obj\Release\netcoreapp2.1\WebServiceNetCore21MySql.csproj.CoreCompileInputs.cache
+C:\Users\jvillega\source\repos\WebServiceNetCore21MySql\WebServiceNetCore21MySql\obj\Release\netcoreapp2.1\WebServiceNetCore21MySql.RazorAssemblyInfo.cache
+C:\Users\jvillega\source\repos\WebServiceNetCore21MySql\WebServiceNetCore21MySql\obj\Release\netcoreapp2.1\WebServiceNetCore21MySql.RazorAssemblyInfo.cs
+C:\Users\jvillega\source\repos\WebServiceNetCore21MySql\WebServiceNetCore21MySql\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\jvillega\source\repos\WebServiceNetCore21MySql\WebServiceNetCore21MySql\obj\Release\netcoreapp2.1\WebServiceNetCore21MySql.AssemblyInfoInputs.cache
+C:\Users\jvillega\source\repos\WebServiceNetCore21MySql\WebServiceNetCore21MySql\obj\Release\netcoreapp2.1\WebServiceNetCore21MySql.AssemblyInfo.cs
+C:\Users\jvillega\source\repos\WebServiceNetCore21MySql\WebServiceNetCore21MySql\obj\Release\netcoreapp2.1\WebServiceNetCore21MySql.RazorTargetAssemblyInfo.cache
+C:\Users\jvillega\source\repos\WebServiceNetCore21MySql\WebServiceNetCore21MySql\obj\Release\netcoreapp2.1\WebServiceNetCore21MySql.dll
+C:\Users\jvillega\source\repos\WebServiceNetCore21MySql\WebServiceNetCore21MySql\obj\Release\netcoreapp2.1\WebServiceNetCore21MySql.pdb
